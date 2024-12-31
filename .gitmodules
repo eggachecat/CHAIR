@@ -1,0 +1,28 @@
+[submodule "LLaMA-Factory"]
+	path = LLaMA-Factory
+	url = https://github.com/eggachecat/LLaMA-Factory.git
+	branch = chair
+[submodule "TruthfulQA"]
+	path = TruthfulQA
+	url = https://github.com/eggachecat/TruthfulQA.git
+	branch = main
+[submodule "honest_llama"]
+	path = honest_llama
+	url = https://github.com/eggachecat/honest_llama.git
+	branch = master
+[submodule "pyvene"]
+	path = pyvene
+	url = https://github.com/eggachecat/pyvene.git
+	branch = chair
+[submodule "automatic_prompt_engineer"]
+	path = automatic_prompt_engineer
+	url = https://github.com/eggachecat/automatic_prompt_engineer.git
+	branch = main
+[submodule "DP-OPT"]
+	path = DP-OPT
+	url = https://github.com/eggachecat/DP-OPT.git
+	branch = main
+[submodule "DoLA"]
+	path = DoLA
+	url = https://github.com/eggachecat/DoLA.git
+	branch = main
