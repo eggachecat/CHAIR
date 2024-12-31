@@ -1,0 +1,8 @@
+{
+  "truthful_qa_judger_info": {
+    "file_name": "./truthful_qa_judger/finetune_info_alpaca.json"
+  },
+  "truthful_qa_judger_truth": {
+    "file_name": "./truthful_qa_judger/finetune_truth_alpaca.json"
+  }
+}

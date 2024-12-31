@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "project"
+		},
+		{
+			"path": "chair",
+			"name": "chair"
+		},
+		{
+			"path": "TruthfulQA"
+		},
+		{
+			"path": "LLaMA-Factory"
+		},
+		{
+			"path": "honest_llama"
+		},
+		{
+			"path": "downloaded_models"
+		},
+		{
+			"path": "pyvene"
+		},
+		{
+			"path": "automatic_prompt_engineer"
+		},
+		{
+			"path": "DP-OPT"
+		},
+		{
+			"path": "DoLA"
+		}											
+	],
+	"settings": {}
+}
